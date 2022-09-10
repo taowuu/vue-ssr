@@ -1,1 +1,1 @@
-# vue-ssr
+`"precommit": "npm run lint-fix",`
