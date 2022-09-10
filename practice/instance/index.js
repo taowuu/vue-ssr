@@ -51,7 +51,7 @@ setInterval(() => {
 // setTimeout(() => {
 //   unWatch()
 // }, 2000)
-
+// 只监听一次
 // app.$once('test', (a, b) => {
 //   console.log(`test emited ${1} ${b}`)
 // })
